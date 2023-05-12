@@ -52,4 +52,4 @@ See **dependencies** for more info on required libraries and software installed
 
 ## Credits
 
-- [Vineeth B V](https://github.com/vinsdragonis)
+- [Radhesh Goel](https://github.com/radhesh1)
